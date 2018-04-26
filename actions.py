@@ -16,3 +16,4 @@ class BRAIN_ACTIONS:
     LOG = 103
     SET_READY = 104
     HOVER = 105
+    TEST = 999
