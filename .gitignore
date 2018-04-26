@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+node_modules/
+.idea/
+db.sqlite3
+*.pyc
+media/*
+raspi/
+brain/static/
+inav/
+inav-configurator/
+/static/
+.resin-sync.yml
+
+.deploys
+/current
+/source
