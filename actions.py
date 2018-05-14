@@ -8,6 +8,7 @@ class BRAIN_ACTIONS:
     FAILSAFE = 7
     SET_RC = 8
     RELEASE_PAYLOAD = 9
+    CANCEL_MISSION = 10
 
 
 class BRAIN_EVENTS:
